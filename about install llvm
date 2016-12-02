@@ -1,0 +1,3 @@
+I just install LLVM for convenience.
+I follow the guide in this website:http://llvm.org/docs/GettingStarted.html.
+Notes: in step 10, when usig cmake command, you should type "Unix Makefiles" instead of Unix Makefiles when indicating the generator.
